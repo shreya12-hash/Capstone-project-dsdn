@@ -13,7 +13,7 @@ The aim of the work is to understand the feasibility of Long Short Term Memory N
 
 ### Clone this repo
 ```
-git clone https://github.com/matteobonanomi/dsnd-capstone.git
+git clone https://github.com/shreya12-hash/Capstone-project-dsdn.git
 ```
 
 ### Download the dataset
@@ -37,9 +37,6 @@ The content of each notebook is breifly explained:
 1. **BASELINE** notebook. A simple persistence model is set as a benchmark for predicting huorly electricity price.
 2. **LSTM** notebook. An advanced LSTM model is developed using Keras library. Its performance are assessed with different forecast time horizons. A comparison with baseline allows to understand the benefits of the model. 
 
-### My article on Medium
-
-For an high-level document summarizing the most relevent results from this analysis, please refer to thi [Story on Medium](https://medium.com/@mbonanomi/hourly-electricity-price-forecasting-using-long-short-term-memory-neural-networks-814ceac517b0).
 
 ## Built With
 
@@ -50,7 +47,7 @@ For an high-level document summarizing the most relevent results from this analy
 
 ## Versioning
 
-We use [Git](https://git-scm.com/) for versioning. Look for new available versions, check the [list of commits](https://github.com/matteobonanomi/windfarmopendata/commits/master). 
+We use [Git](https://git-scm.com/) for versioning. Look for new available versions, check the [list of commits](https://github.com/shreya12-hash/windfarmopendata/commits/master). 
 
 ## Authors
 
@@ -65,6 +62,5 @@ We use [Git](https://git-scm.com/) for versioning. Look for new available versio
 * Acknowledgement is given to [Nord Pool](https://www.nordpoolgroup.com/) for providing such an extensive and uncommonly clean dataset
 
 ## Documentation
-* [Medium Story](https://medium.com/@mbonanomi/hourly-electricity-price-forecasting-using-long-short-term-memory-neural-networks-814ceac517b0) about this code
 * [YouTube lesson](https://www.youtube.com/watch?v=WCUNPb-5EYI) A simple LSTM practical explanation
 * [MachineLearningMastery.com](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/) A wonderful website containing many sample codes to learn LSTM applied to different scenarios
