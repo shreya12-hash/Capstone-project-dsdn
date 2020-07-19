@@ -54,7 +54,7 @@ We use [Git](https://git-scm.com/) for versioning. Look for new available versio
 
 ## Authors
 
-* **Matteo Bonanomi** - [My GitHub](https://github.com/matteobonanomi)
+* **Shreya Biswas** - [My GitHub](https://github.com/shreya12-hash)
 
 ## License
 
