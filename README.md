@@ -45,9 +45,6 @@ The content of each notebook is breifly explained:
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE by JetBrains
 * [Brackets](https://maven.apache.org/) - My favourite text editor
 
-## Versioning
-
-We use [Git](https://git-scm.com/) for versioning. Look for new available versions, check the [list of commits](https://github.com/shreya12-hash/windfarmopendata/commits/master). 
 
 ## Authors
 
@@ -55,7 +52,7 @@ We use [Git](https://git-scm.com/) for versioning. Look for new available versio
 
 ## License
 
-* This project is licensed under the GPL v3 License - see the [LICENSE.txt](LICENSE) file for details
+* This project is licensed under the GPL v3 License - see the **LICENSE.txt** file for details
 
 ## Acknowledgments
 
